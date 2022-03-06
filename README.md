@@ -1,2 +1,2 @@
 # Resolusi
-repositori untuk resolusi
+repositori untuk resolusi kedepannya
